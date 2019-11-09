@@ -1,0 +1,54 @@
+.bg-img {
+  background-image: url("https://www.publicdomainpictures.net/pictures/40000/velka/blue-abstract-background.jpg");
+  background-size: cover;
+}
+#main-row1 {
+  padding-top: 60px;
+  height: 80vh;
+  align-content: flex-end;
+}
+#main-row2 {
+  height: 100%;
+  padding: 10%;
+}
+.card {
+  border: none;
+  align-items: center;
+}
+.card-img-top {
+  box-shadow: 3px 3px rgba(0, 0, 0, 0.5);
+  height: 80%;
+  width: 80%;
+  margin: 40%;
+}
+.card-body {
+  margin-top: 100%;
+  box-shadow: 3px 3px rgba(0, 0, 0, 0.5);
+  padding: 20px 10px;
+}
+.btn-cards {
+  margin-left: auto;
+  margin-right: auto;
+  left: 25%;
+  right: 25%;
+  box-shadow: 3px 3px rgba(0, 0, 0, 0.5);
+}
+.card-title,
+.card-text {
+  text-align: center;
+}
+.media {
+  padding-top: 56.25%;
+  margin-right: 3vw;
+}
+.media-column {
+  margin-bottom: 8vh;
+  align-self: flex-end;
+}
+#media {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
